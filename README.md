@@ -12,6 +12,6 @@
 </p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=quantum-entangled&show_icons=true&theme=react&locale=en" alt="quantum-entangled-stats-1" width="auto" height="auto"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantum-entangled&theme=react&" alt="quantum-entangled-stats-2" width="auto" height="auto"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=quantum-entangled&show_icons=true&theme=react&locale=en" alt="quantum-entangled-stats-1" width="47.2%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantum-entangled&theme=react&" alt="quantum-entangled-stats-2" width="50%"/> 
 </div>

@@ -11,6 +11,4 @@
 <a href="https://linkedin.com/in/ivan-shalamov-a54abb281" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ivan-shalamov-a54abb281" height="40" width="40" /></a> <a href="https://www.researchgate.net/profile/Ivan_Shalamov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" height="40" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=quantum-entangled&show_icons=true&theme=react&locale=en" alt="quantum-entangled" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=quantum-entangled&theme=react&" alt="quantum-entangled" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=quantum-entangled&show_icons=true&theme=react&locale=en" alt="quantum-entangled" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=quantum-entangled&theme=react&" alt="quantum-entangled" /> </p>
